@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君からの贈り物",
+  "base_artist": "Chanmina",
+  "createdAt": "2026-01-13T12:16:07.214493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君からの贈り物",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_君からの贈り物_ちゃんみな.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "君からの贈り物",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_02_君からの贈り物_ちゃんみな.txt"
+    }
+  ]
+}
